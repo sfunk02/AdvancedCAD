@@ -38,3 +38,5 @@ After creating all the necessary parts, I assembled them into the final product.
 For this part of the assignment, I didn't have to change the original sketch. I actually used the split tool to separate the semi circles at the end from the main rectangle. Then, I used the move tool to angle the ends up and I used fillets to smooth out the bend.
 
 ### Realistic_Trucks
+
+<img src="Images/truckRealisticSketch.png" alt="RealisticTruckSketch.png" width="300" height="200"/><img src="Images/truckRealistic.png" alt="RealisticTruck.png" width="300" height="200"/>
