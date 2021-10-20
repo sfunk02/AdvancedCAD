@@ -33,7 +33,7 @@ After creating all the necessary parts, I assembled them into the final product.
 
 ### Bending_the_Board
 
-<img src="Images/deckSketch.png" alt="deckSketch.png" width="300" height="200"/><img src="Images/deck.png" alt="deck.png" width="300" height="200"/>
+<img src="Images/deckSketch.png" alt="deckSketch.png" width="300" height="200"/><img src="Images/deckBent.png" alt="deckBent.png" width="300" height="200"/>
 
 For this part of the assignment, I didn't have to change the original sketch. I actually used the split tool to separate the semi circles at the end from the main rectangle. Then, I used the move tool to angle the ends up and I used fillets to smooth out the bend.
 
