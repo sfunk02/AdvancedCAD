@@ -4,19 +4,19 @@
 * [Table of Contents](#TableOfContents)
 * [Deck](#Deck)
 * [Trucks](#Trucks)
-* [Wheels and Bearings](#Wheels and Bearings)
+* [Wheels and Bearings](#Wheels_and_Bearings)
 * [Assembly](#Assembly)
-* [Bending the Board](#Bending the Board)
-* [Realistic Trucks](#Realistic Trucks)
+* [Bending the Board](#Bending_the_Board)
+* [Realistic Trucks](#Realistic_Trucks)
 
 ### Deck
 
 ### Trucks
 
-### Wheels and Bearings
+### Wheels_and_Bearings
 
 ### Assembly
 
-### Bending the Board
+### Bending_the_Board
 
-### Realistic Trucks
+### Realistic_Trucks
