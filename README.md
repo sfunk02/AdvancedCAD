@@ -27,6 +27,10 @@ This part of the assignment was pretty straighforward. The most important part w
 
 ### Assembly
 
+<img src="Images/skateboard.png" alt="skateboard.png" width="300" height="200"/><img src="Images/skateboard2.png" alt="skateboard2.png" width="300" height="200"/>
+
+After creating all the necessary parts, I assembled them into the final product. This was fairly easy to do. All of the mate connectors that I needed were already there, so I just had to snap the pieces together. I also had to go in the Onshape standard parts libray and add in screws and nuts for the trucks and wheels. For this part, it is neccessary to make sure you use the exact right parts, otherwise they will not fit correctly.
+
 ### Bending_the_Board
 
 ### Realistic_Trucks
