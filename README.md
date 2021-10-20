@@ -20,7 +20,8 @@ For this assignment, I had to use Onshape to create a CAD skateboard. This proje
 
 ### Wheels_and_Bearings
 
-<img src="Images/wheelAndBearing.png" alt="WheelAndBearing.png" width="300" height="300"/>
+<img src="Images/wheelAndBearing.png" alt="WheelAndBearing.png" width="300" height="300"/><img src="Images/wheelAndBearingSketch.png" alt="WheelAndBearingSketch.png" width="300" height="300"/>
+
 
 This part of the assignment was pretty straighforward. The most important part was to do a revolved extrusion instead of a normal one. This makes it much easier due to the circular shape of the object, and it makes it much easier to come back later and change the dimensions if necessary. The bearing could just be sketched within the wheel after it was extruded and the middle of the bearing could be set in by sketching a new circle and cutting away part of the bearing.
 
