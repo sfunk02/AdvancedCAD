@@ -16,7 +16,7 @@ For this assignment, I had to use Onshape to create a CAD skateboard. This proje
 
 ### Deck
 
-<img src="Images/deck.png" alt="deck.png" width="300" height="200"/>
+<img src="Images/deck.png" alt="deck.png" width="450" height="200"/>
 
 [Image Cred](https://github.com/afriedm49)
 
@@ -25,7 +25,7 @@ The deck was the simplest part of the board to complete. I had to make a rectang
 
 ### Trucks
 
-<img src="Images/truck.png" alt="truck.png" width="300" height="200"/>
+<img src="Images/truck.png" alt="truck.png" width="450" height="200"/>
 
 [Image Cred](https://github.com/afriedm49)
 
