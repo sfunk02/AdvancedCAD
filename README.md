@@ -21,7 +21,7 @@ For this assignment, I had to use Onshape to create a CAD skateboard. This proje
 [Image Cred](https://github.com/afriedm49)
 
 
-The deck was the simplest part of the board to complete. I had to make a rectangular sketch with a circle at each end, create a pattern for the holes, and extrude. I then added a fillet around the edge to give the board a smoother look.
+The deck was the simplest part of the board to complete. I had to make a rectangular sketch with a circle at each end and put tangent constraints at each end to keep the circles aligned. Next, I added a rectangle to use as a pattern for screw holes and I created another one by making it symmetrical across the center line. I used Onshape's hole tool to add holes at each corner of the two rectangles, which made it easy to add countersunk holes. I then added a fillet around the edge to give the board a smoother look. The most important parts that I learned here are first that it is easier to constrain than it is to dimension everything, and second that the hole tool is much easier to use than creating a sketch and removing it for each screw hole. 
 
 ### Trucks
 
@@ -29,7 +29,7 @@ The deck was the simplest part of the board to complete. I had to make a rectang
 
 [Image Cred](https://github.com/afriedm49)
 
-For the trucks, I had to first sketch the baseplate. From there, I sketched the hanger and the bushing, as well as the tab that connects the two. I then extruded the geometry and added fillets.
+For the truck, I first extruded part of the baseplate from the hole pattern rectangle that I already created. I then sketched the rest of the baseplate and hanger from the right plane. After extruding those parts, I created the bushing from a plane of the baseplate, and the connecting tab of the hanger from the surface of the bushing. The most important part of this step was learning how to use geometry from other sketches and objects. This allowed me to build on what I already had, rather than recreating each and every piece each time I needed to sketch something. 
 
 ### Wheels_and_Bearings
 
