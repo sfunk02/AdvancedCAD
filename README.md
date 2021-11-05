@@ -1,5 +1,8 @@
 # AdvancedCAD
 
+* [Skateboard](#Skateboard)
+* [Duck](#Duck)
+
 ## Skateboard
 
 For this assignment, I had to use Onshape to create a CAD skateboard. This project included multiple parts that had to then be assembled. After assembly, I went back and improved some of the parts to make them more realistic.
@@ -64,6 +67,7 @@ For this assignment, I had to first create a basic lego piece with many differen
 ### Bricks
 
 <img src="Images/brick.png" alt="brick.png" width="300" height="200"/>
+
 [Onshape Document](https://cvilleschools.onshape.com/documents/5285c243cd846e4ce5aaaa91/w/66e07b668256a92d0052c5dd/e/8b098778b1494a0be095220d)
 
 This assignment was relatively complex because of the sheer volume of configurations I had to make. Everything had to be done in a specific order, starting with the creation of the variables at the very beginning. Also, naming the part would have caused the entire thing to break due to a glitch with Onshape and the Part Name configuration tool. The best way to create a part with many different configurations is to keep the configuration names and tables very consistent and organized because it somewhat simplifies the process.
@@ -71,6 +75,7 @@ This assignment was relatively complex because of the sheer volume of configurat
 ### Duck
 
 <img src="Images/duck.png" alt="duck.png" width="300" height="500"/>
+
 [Onshape Document](https://cvilleschools.onshape.com/documents/5285c243cd846e4ce5aaaa91/w/66e07b668256a92d0052c5dd/e/92e33eea6e5c3d6c42ffcfa8)
 
 This assignment was easy compared to the previous one because I was able to use Snap Mode to very quickly assemble many lego bricks. It definitely would have been much more difficult had I messed up something in the configurations in the previous assignment. Snap Mode made it almost as easy as building the duck with real legos because it automatically fits the pieces together and allows you to rotate them with the push of a button. The only problem I had with this was that one time Snap Mode aligned a connector with the wrong surface and caused a piece to be very slightly overlapping with another one. The best solution for this is to be very vigilant and make sure you are selecting the correct surfaces for the fastened mates.
