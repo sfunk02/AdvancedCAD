@@ -1,7 +1,7 @@
 # AdvancedCAD
 
 * [Skateboard](#Skateboard)
-* [Duck](#Duck)
+* [Legos](#Legos)
 
 ## Skateboard
 
