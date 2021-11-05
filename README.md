@@ -55,3 +55,22 @@ For this part of the assignment, I didn't have to change the original sketch. I 
 <img src="Images/truckRealisticSketch.png" alt="RealisticTruckSketch.png" width="300" height="200"/><img src="Images/truckRealistic.png" alt="RealisticTruck.png" width="300" height="200"/>
 
 For this final modification of my skateboard, I went back into the sketch for the truck and altered the shape of it to make it more realistic. In order to do this, I left the lines that other pieces were constrained to, and I redrew the rest of the lines at angles. Afterwards, I had to alter the position of the hanger and the thickness of the bushing to account for the different dimensions. One thing I had trouble with was trying to constrain the sketch for the tab coming off the hanger. In order to resconstrain it, I had to Use the circle on the end of the hanger on the tab sketch and then draw a midline to attach the sketch to. Normally, there would be a midpoint to use, but for some reason I could not find it.
+
+
+## Legos
+
+For this assignment, I had to first create a basic lego piece with many different configurations so that it could be changed into any lego brick and put into an assembly. Then, I had to use my configurations to assemble a lego duck.
+
+### Bricks
+
+<img src="Images/brick.png" alt="brick.png" width="300" height="200"/>
+[Onshape Document](https://cvilleschools.onshape.com/documents/5285c243cd846e4ce5aaaa91/w/66e07b668256a92d0052c5dd/e/8b098778b1494a0be095220d)
+
+This assignment was relatively complex because of the sheer volume of configurations I had to make. Everything had to be done in a specific order, starting with the creation of the variables at the very beginning. Also, naming the part would have caused the entire thing to break due to a glitch with Onshape and the Part Name configuration tool. The best way to create a part with many different configurations is to keep the configuration names and tables very consistent and organized because it somewhat simplifies the process.
+
+### Duck
+
+<img src="Images/duck.png" alt="duck.png" width="300" height="500"/>
+[Onshape Document](https://cvilleschools.onshape.com/documents/5285c243cd846e4ce5aaaa91/w/66e07b668256a92d0052c5dd/e/92e33eea6e5c3d6c42ffcfa8)
+
+This assignment was easy compared to the previous one because I was able to use Snap Mode to very quickly assemble many lego bricks. It definitely would have been much more difficult had I messed up something in the configurations in the previous assignment. Snap Mode made it almost as easy as building the duck with real legos because it automatically fits the pieces together and allows you to rotate them with the push of a button. The only problem I had with this was that one time Snap Mode aligned a connector with the wrong surface and caused a piece to be very slightly overlapping with another one. The best solution for this is to be very vigilant and make sure you are selecting the correct surfaces for the fastened mates.
