@@ -2,6 +2,7 @@
 
 * [Skateboard](#Skateboard)
 * [Legos](#Legos)
+* [Multi-tool](#Multi-tool)
 
 ## Skateboard
 
@@ -9,7 +10,6 @@ For this assignment, I had to use Onshape to create a CAD skateboard. This proje
 
 [Onshape Document](https://cvilleschools.onshape.com/documents/94688fa6ba9b8501a3c821bf/w/0247a133f9e5e94942ede10e/e/4af12767c85af2d5f4d7c289)
 
-### Table of Contents
 * [Deck](#Deck)
 * [Trucks](#Trucks)
 * [Wheels and Bearings](#Wheels_and_Bearings)
@@ -79,3 +79,14 @@ This assignment was relatively complex because of the sheer volume of configurat
 [Onshape Document](https://cvilleschools.onshape.com/documents/5285c243cd846e4ce5aaaa91/w/66e07b668256a92d0052c5dd/e/92e33eea6e5c3d6c42ffcfa8)
 
 This assignment was easy compared to the previous one because I was able to use Snap Mode to very quickly assemble many lego bricks. It definitely would have been much more difficult had I messed up something in the configurations in the previous assignment. Snap Mode made it almost as easy as building the duck with real legos because it automatically fits the pieces together and allows you to rotate them with the push of a button. The only problem I had with this was that one time Snap Mode aligned a connector with the wrong surface and caused a piece to be very slightly overlapping with another one. The best solution for this is to be very vigilant and make sure you are selecting the correct surfaces for the fastened mates.
+
+
+## Multi-tool
+
+For this assignment, I created a CAD multi-tool and then used that 3D model to make a DXF drawing on Onshape that is compatible with the laser cutter. 
+
+[Onshape Document](https://cvilleschools.onshape.com/documents/f9b8a7344e696bde6b59ee1e/w/5ce632adffbcf01b7713c160/e/3f2b94577334191428ffb423)
+
+<img src="Images/multi-tool.png" alt="multi-tool.png" width="500" height="500"/><img src="Images/multi-toolDrawing.png" alt="multi-toolDrawing.png" width="500" height="500"/>
+
+The most difficult part of this assignment was figuring out how the curve would be correctly dimensioned based on the drawing I was given. I started by just drawing out the basic shape of the tool with lines and added a three point curve. After putting in all the dimensions I was given, I realized that the curve did not need to be directly dimensioned because the constraints it was given caused it to be the same across multiple models. The other difficulty I faced was with the linear patterns for the holes. The first time I tried to copy the holes in a second direction, it replicated the entire row of holes. I had to be careful to only select the one hole in the corner to pattern again rather than selecting the first linear pattern. The drawing for this part was easy because I was able to use the CHS Laser Cutter Template. All I had to do was set a few parameters, drop my part in, and add some writing.
