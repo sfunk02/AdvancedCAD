@@ -87,6 +87,6 @@ For this assignment, I created a CAD multi-tool and then used that 3D model to m
 
 [Onshape Document](https://cvilleschools.onshape.com/documents/f9b8a7344e696bde6b59ee1e/w/5ce632adffbcf01b7713c160/e/3f2b94577334191428ffb423)
 
-<img src="Images/multi-tool.png" alt="multi-tool.png" width="500" height="500"/><img src="Images/multi-toolDrawing.png" alt="multi-toolDrawing.png" width="500" height="500"/>
+<img src="Images/multi-tool.png" alt="multi-tool.png" width="400" height="400"/><img src="Images/multi-toolDrawing.png" alt="multi-toolDrawing.png" width="400" height="400"/>
 
 The most difficult part of this assignment was figuring out how the curve would be correctly dimensioned based on the drawing I was given. I started by just drawing out the basic shape of the tool with lines and added a three point curve. After putting in all the dimensions I was given, I realized that the curve did not need to be directly dimensioned because the constraints it was given caused it to be the same across multiple models. The other difficulty I faced was with the linear patterns for the holes. The first time I tried to copy the holes in a second direction, it replicated the entire row of holes. I had to be careful to only select the one hole in the corner to pattern again rather than selecting the first linear pattern. The drawing for this part was easy because I was able to use the CHS Laser Cutter Template. All I had to do was set a few parameters, drop my part in, and add some writing.
